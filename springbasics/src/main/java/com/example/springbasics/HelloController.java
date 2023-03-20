@@ -10,4 +10,11 @@ public class HelloController {
 	public String sayHello() {
 		return "Hello World";
 	}
+	
+	/*@GetMapping("/hello")
+	public String sayHello2() {
+		return "Hello World2";
+	}
+	returns - Error creating bean with name 'requestMappingHandlerMapping' defined in class path resource
+	*/
 }
