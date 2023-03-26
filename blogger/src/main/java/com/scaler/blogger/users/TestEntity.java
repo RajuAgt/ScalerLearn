@@ -1,4 +1,4 @@
-package com.scaler.blogger.entities;
+package com.scaler.blogger.users;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
